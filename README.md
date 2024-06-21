@@ -38,6 +38,7 @@ While the presentation highlights various tools, the focus remains tool-agnostic
 ## Resources
 
 - [Recording: Open-sourcing AWS Pentest Methodology - fwd:cloudsec NA 2024](https://www.youtube.com/watch?v=q51Fe_B6qY4)
+- [Slides: Open-sourcing AWS Pentest Methodology - fwd:cloudsec NA 2024](open-sourcing-aws-pentest-methodology-lizzie-moratti.pdf)
 
 ## Contact
 
